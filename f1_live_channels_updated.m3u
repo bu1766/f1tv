@@ -1,0 +1,21 @@
+#EXTM3U
+
+# CCTV-5 体育频道（中国）
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" group-title="China",CCTV-5
+http://111.20.40.170:6610/000000001000/1000000002000033566/index.m3u8?Contentid=1000000002000033566&livemode=1&stbId=3&channel-id=wasu.stream.iptv&User-Agent=perfectplayer
+
+# Sky Sports F1（英国）
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-name="Sky Sports F1" group-title="UK",Sky Sports F1
+http://hlslive.lcdn.une.net.co/SkySportsF1HD/playlist.m3u8
+
+# RTL（德国）
+#EXTINF:-1 tvg-id="RTLDE" tvg-name="RTL" group-title="Germany",RTL
+https://rtlplusm3u8.akamaized.net/stream.m3u8
+
+# ServusTV（奥地利）
+#EXTINF:-1 tvg-id="ServusTV" tvg-name="ServusTV" group-title="Austria",ServusTV
+https://servustv3.akamaized.net/hls/live/2024520/ServusTV3/master.m3u8
+
+# ESPN（美国）
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="USA",ESPN
+http://free.fullstreaming.cc/espn.m3u8
