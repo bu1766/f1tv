@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" group-title="China",CCTV-5 体育
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsF1UK" tvg-name="Sky Sports F1" group-title="UK",Sky Sports F1
+http://146.190.14.235:8080/live/skyf1/index.m3u8
+
+#EXTINF:-1 tvg-id="RTLDE" tvg-name="RTL (Germany)" group-title="Germany",RTL Germany
+http://51.210.199.45:8081/rtl/index.m3u8
+
+#EXTINF:-1 tvg-id="ServusTVAT" tvg-name="ServusTV (Austria)" group-title="Austria",ServusTV
+http://51.210.199.43:8081/servustv/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNUS" tvg-name="ESPN US" group-title="USA",ESPN
+http://146.190.14.235:8080/live/espn/index.m3u8
